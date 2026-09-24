@@ -1,2 +1,8 @@
-head {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
-body {background-image: url("https://media.istockphoto.com/id/1256532152/vector/bubble-tea-seamless-pattern-vector-illustration-boba-pattern-on-chocolate-color-background.jpg?s=612x612&w=0&k=20&c=RHt0mkpXmerIqpHM_Fwujv_JYQcTA2MjRHvlTFUFxxc=")}
+
+head {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center;}
+head {text-align: center; font-size: x-large; font-family: Georgia, 'Times New Roman', Times, serif;}
+body {font-size: large; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center;}
+body {background-image: url("https://preview.colorkit.co/color/563d2d.png?static=true://media.istockphoto.com/id/1142580126/vector/chocolate-background-3d-realistic-vector.jpg?s=612x612&w=0&k=20&c=AjuPTLa9FtHc7Khdr1jnQZcS2ptigedT8dQ0oS7l1GY=")}
+body {margin:auto; width: 360px;}
+div {background-color: antiquewhite;
+padding: 15px; width: 300px; height: 700px   text-align: center}
